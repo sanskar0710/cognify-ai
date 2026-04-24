@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pymongo
+pydantic
+pydantic-settings
+python-jose
+python-multipart
+passlib
+bcrypt
+scikit-learn
+numpy
+pandas
+python-dotenv
+httpx
+cors
